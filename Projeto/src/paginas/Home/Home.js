@@ -3,6 +3,10 @@ import Postit from '../../componentes/Postit/Postit'
 import loading from './loading.gif'
 import './Home.css'
 
+//teste
+
+
+
 /*
 1. Fazer o Loading aparecer caso a lista vazia
 2. criar a lista no componentDidMount
